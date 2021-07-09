@@ -1,0 +1,16 @@
+body{
+margin: 0;
+padding: 0;
+background-color: white;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: darkcyan;
+}
+
+h1{ 
+    color: slateblue;
+    text-align: center;
+}
+
+img{
+    width: 200px;
+}
